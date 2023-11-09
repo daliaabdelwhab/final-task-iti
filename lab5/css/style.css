@@ -1,0 +1,10 @@
+.box{
+    margin: auto;
+    text-align: center;
+    width: 200px;
+}
+.photo{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
